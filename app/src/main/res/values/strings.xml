@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_field">field</string>
+    <string name="title_activity_field4">field4</string>
+    <string name="title_activity_field5">Field</string>
+</resources>
